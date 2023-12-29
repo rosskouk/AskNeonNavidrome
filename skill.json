@@ -13,11 +13,7 @@
     "warning": "",
     "systemDeps": false,
     "requirements": {
-        "python": [
-            "ovos-bus-client",
-            "ovos-utils",
-            "ovos-workshop"
-        ],
+        "python": [],
         "system": {},
         "skill": []
     },
