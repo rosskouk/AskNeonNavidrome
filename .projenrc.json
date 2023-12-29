@@ -1,4 +1,10 @@
 {
   "type": "@mikejgray/ovos-skill-projen.OVOSSkillProject",
-  "name": "AskNeonNavidrome"
+  "name": "AskNeonNavidrome",
+  "repositoryUrl": "https://github.com/rosskouk/AskNeonNavidrome",
+  "skillClass": "HelloWorldSkill",
+  "author": "Ross Stewart",
+  "authorAddress": "rosskouk@gmail.com",
+  "license": "MIT"
+
 }
