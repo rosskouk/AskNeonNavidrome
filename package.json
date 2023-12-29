@@ -1,0 +1,6 @@
+{
+  "devDependencies": {
+    "@mikejgray/ovos-skill-projen": "^0.0.15",
+    "projen": "^0.78.4"
+  }
+}
